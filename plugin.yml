@@ -1,0 +1,4 @@
+name: ItemFrameBlocker
+version: 1.0
+main: me.zackpollard.itemframeblocker.ItemFrameBlocker
+commands:
